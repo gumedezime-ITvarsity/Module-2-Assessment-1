@@ -47,6 +47,8 @@ body{
 /*=====================MAIN-HOME==============*/
 #main-home{
     margin: 120px;
+    width: 100%;
+    height: 100px;
 }
 
 /*=====================BOTTOM-TABS==============*/
